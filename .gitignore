@@ -1,0 +1,12 @@
+# Simulink build artifacts & caches
+slprj/
+*.slxc
+*.autosave
+*.asv
+
+# Backup archive
+*.original.zip
+
+# OS
+Thumbs.db
+.DS_Store
